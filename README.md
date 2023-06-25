@@ -2,7 +2,7 @@
 
 ## html css project
 
-### registration page completed
+### login page completed
 
 ### screen
 ![](login.gif)
